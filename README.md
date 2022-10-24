@@ -12,6 +12,7 @@
   
 <p>
 * 🌍  Nascido em Praia Grande - São Paulo, Brazil <br>
+* 👶🏻  17 anos<br>
 <!-- * 🖥️  Veja meu portifólio <a href="#">coming soon</a><br> -->
 * 🚀  Atualmente sem trabalhar e fazendo o TCC<br>
 * 🤝  Livre para colaborar em projetos nos quais linguagens atendam com estas abaixo :arrow_down:<br>
