@@ -7,7 +7,7 @@
   
   <p>
     Sou Desenvolvedor Full Stack junior e tenho o estilo de vida do "programador", um pouco preguiçoso que curte filmes, séries, quadrinhos, música e video games.<br>
-    Cursando Análise e desenvolvimento de sistemas na ETEC Horácio Augusto da Silveira procuro receber meu diploma e buscar sempre adquirir mais conhecimento para carreira.
+    Cursando Análise e desenvolvimento de sistemas na ETEC Horácio Augusto da Silveira, procuro receber meu diploma e buscar sempre adquirir mais conhecimento para carreira.
   </p>
   
 <p>
