@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif"</img>
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif"</img>
     Eu sou o 
     <a href="https://github.com/luizfernandope">Luiz Fernando Pegorari🗿🍷</a>
   </h1>
