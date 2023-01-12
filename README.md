@@ -14,8 +14,8 @@
 <p>
 * 🌍  Nascido em Praia Grande - São Paulo, Brazil <br>
 * 👶🏻  17 anos<br>
-<!-- * 🖥️  Veja meu portifólio <a href="#">coming soon</a><br> -->
-* 🚀  Atualmente sem trabalhar e fazendo o TCC<br>
+* 🖥️  Veja meu portifólio <a href="https://luizfernandopegorari.onrender.com/index.html">aqui</a><br> 
+* 🚀  Atualmente disponivel para freelance<br>
 * 🤝  Livre para colaborar em projetos nos quais linguagens atendam com estas abaixo :arrow_down:<br>
 </p>
   
