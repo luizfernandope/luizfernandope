@@ -8,7 +8,7 @@
   
   <p>
     Sou Desenvolvedor Full Stack junior e tenho o estilo de vida do "programador", sempre em busca de soluções simples e apreciador de filmes, séries, quadrinhos, música e video games.<br>
-    Cursando Análise e desenvolvimento de sistemas na ETEC Horácio Augusto da Silveira, procuro receber meu diploma e buscar sempre adquirir mais conhecimento para carreira.
+    Formado em Análise e desenvolvimento de sistemas na ETEC Horácio Augusto da Silveira, busco por oportunidades e continuo estudando programação e realizando projetos pessoais em diferentes linguagens.
   </p>
   
 <p>
@@ -21,17 +21,14 @@
   
 </div>
 
-<!--
+
 <div align="center">
   <a href="https://github.com/luizfernandope">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luizfernandope&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfernandope&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
--->
-<div align="center">
-<a href="http://www.github.com/luizfernandope"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luizfernandope&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</div>
+
   
 <div align="center" valign="top"><br>
   <img align="center" alt="Java" height="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" />
@@ -68,5 +65,7 @@
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=luizfernandope&label=Profile%20views&color=0e75b6&style=flat" alt="luizfernandope" /> </p> -->
 
-
+<div align="center">
+<a href="http://www.github.com/luizfernandope"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luizfernandope&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</div>
 
