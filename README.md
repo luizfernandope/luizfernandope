@@ -1,71 +1,90 @@
-<div>
-  
-  <h1 align="center">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif"</img>
-    Eu sou o 
-    <a href="https://github.com/luizfernandope">Luiz Fernando Pegorari🗿🍷</a>
+<div align="center">
+  <h1>
+    👋 Olá, eu sou o <a href="https://github.com/luizfernandope">Luiz Fernando Pegorari</a>
   </h1>
-  
-  <p>
-    Sou Desenvolvedor Full Stack junior e tenho o estilo de vida do "programador", sempre em busca de soluções simples e apreciador de filmes, séries, quadrinhos, música e video games.<br>
-    Formado em Análise e desenvolvimento de sistemas na ETEC Horácio Augusto da Silveira, busco por oportunidades e continuo estudando programação e realizando projetos pessoais em diferentes linguagens.
-  </p>
-  
-<p>
-* 🌍  Nascido em Praia Grande - São Paulo, Brazil <br>
-* 👶🏻  17 anos<br>
-* 🖥️  Veja meu portifólio <a href="https://luizfernandopegorari.onrender.com/index.html">aqui</a><br> 
-* 🚀  Atualmente disponivel para freelance<br>
-* 🤝  Livre para colaborar em projetos nos quais linguagens atendam com estas abaixo :arrow_down:<br>
-</p>
-  
+  <p>Desenvolvedor Full Stack | Focado em clean code, boas práticas e soluções que agregam valor ao negócio</p>
 </div>
 
+---
+
+### 💻 Sobre mim
+
+🎓 Universitário na **FATEC Guarulhos** no curso de Análise e Desenvolvimento de Sistemas  
+🎓 Técnico em Análise e Desenvolvimento de Sistemas pela **ETEC Prof. Horácio A. da Silveira**
+
+🚀 Atuo como freelancer desenvolvendo aplicações web/mobile, APIs RESTful e sistemas integrados com bancos de dados.  
+💡 Interessado por arquitetura de software, segurança, UX e DevOps básico.  
+📚 Sempre em aprendizado contínuo por meio de bootcamps, cursos e projetos próprios.  
+
+---
+
+### 🛠️ Habilidades Técnicas
+
+**Linguagens:**  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Frameworks e Ferramentas:**  
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+**Bancos de Dados:**  
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+---
+
+### 📂 Projetos em Destaque
+
+- **💰 FinTracker**  
+  Aplicativo desktop em C# com MySQL para controle financeiro com relatórios e gráficos.
+
+- **🦷 FastTooth**  
+  App Android para agendamento odontológico, com backend em Spring Boot, API e SQL Server.
+
+- **🛒 E-commerce Design**  
+  Layout responsivo com catálogo, filtros e checkout feito no Figma com foco em UX/UI.
+
+- **🏋️ Site de Academia**  
+  Plataforma web responsiva com planos, horários e galeria desenvolvida com React.
+
+---
+
+### 🧠 Certificações e Cursos
+
+- Front-End Completo 2.0 – Danki Code  
+- JavaScript Completo – Danki Code  
+- Spring Boot REST API – JDev  
+- Bootcamp XP Inc: Cloud com IA – DIO  
+- Design de Aplicativos – Danki Code  
+
+---
+
+### 🌐 Contato & Redes
 
 <div align="center">
-  <a href="https://github.com/luizfernandope">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luizfernandope&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfernandope&theme=dark&hide_border=false&&layout=compact"/>
-  </a>
+  <a href="mailto:luizpegorari@protonmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/luiz-fernando-pegorari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/luizlf.jpg/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://luizfernandopegorari.onrender.com/"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </div>
 
-  
-<div align="center" valign="top"><br>
-  <img align="center" alt="Java" height="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" />
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg"/>
-  <img align="center" alt="J query" height="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" />
-  <img align="center" alt="C sharp" height="30" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png">
-  <img align="center" alt="Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Dot net" height="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" />
-  <img align="center" alt="SQL Server" height="30" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">
-  <img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg"/>
-</div><br>
+---
 
 <div align="center">
-  
-  <a href="https://www.instagram.com/luizlf.jpg/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luiz-fernando-pegorari-78b853225/" target="_blank"><img height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:luizevanda12345@gmail.com"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfernandope&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfernandope&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div align="center">
-
-  ![Snake animation](https://github.com/luizfernandope/luizfernandope/blob/output/github-contribution-grid-snake.svg)
-  
+  <img src="https://github.com/luizfernandope/luizfernandope/blob/output/github-contribution-grid-snake.svg" />
 </div>
-
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=luizfernandope&label=Profile%20views&color=0e75b6&style=flat" alt="luizfernandope" /> </p> -->
-
-<div align="center">
-<a href="http://www.github.com/luizfernandope"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luizfernandope&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</div>
-
