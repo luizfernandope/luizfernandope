@@ -45,16 +45,20 @@
 
 ### 📂 Projetos em Destaque
 
-- **💰 FinTracker**  
+- [**💰 FinTracker**](https://github.com/luizfernandope/Fintracker)  
+
   Aplicativo desktop em C# com MySQL para controle financeiro com relatórios e gráficos.
 
-- **🦷 FastTooth**  
+- [**🦷 FastTooth**](https://github.com/luizfernandope/tcc-app-oficial)
+  
   App Android para agendamento odontológico, com backend em Spring Boot, API e SQL Server.
 
-- **🛒 E-commerce Design**  
+- [**🛒 E-commerce Design**](https://github.com/luizfernandope/Design-web-charcutaria.git)  
+
   Layout responsivo com catálogo, filtros e checkout feito no Figma com foco em UX/UI.
 
-- **🏋️ Site de Academia**  
+- [**🏋️ Site de Academia**](https://github.com/luizfernandope/ouroboros-react-site)
+
   Plataforma web responsiva com planos, horários e galeria desenvolvida com React.
 
 ---
@@ -79,6 +83,9 @@
 </div>
 
 ---
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=luizfernandope&theme=dark&hide_border=true)](https://git.io/streak-stats"/>
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfernandope&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
